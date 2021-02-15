@@ -1,0 +1,205 @@
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 3
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 5
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 6
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 7
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 01:50:16 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 10
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 3
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 5
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 6
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 7
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 01:52:55 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 10
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 3
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 5
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 6
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 7
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 01:57:04 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 10
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 11
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 15
+[01-Dec-2019 02:08:04 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 11
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 15
+[01-Dec-2019 02:08:44 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 11
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 15
+[01-Dec-2019 02:08:45 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 9
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 11
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 15
+[01-Dec-2019 02:08:46 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 10
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 14
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:14:21 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 17
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: referenceCode in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 10
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 12
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 13
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 14
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 16
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: password in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 17
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: $email in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 26
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: name in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 27
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: phone in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 28
+[01-Dec-2019 02:16:27 America/New_York] PHP Notice:  Undefined index: dateOfBirth in /home/bdabashon/public_html/bidding/bid/ajax/insertReg.php on line 29
+[03-Dec-2019 01:21:14 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:21:14 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:21:15 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:21:15 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:28:14 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:28:14 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:42:05 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 01:42:05 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 5
+[03-Dec-2019 04:02:54 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:02:54 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:02:54 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 8
+[03-Dec-2019 04:02:54 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:02:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:02:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:02:54 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:02:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:06:17 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:06:17 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:06:17 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 8
+[03-Dec-2019 04:06:17 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:06:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:06:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:06:17 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:06:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:07:47 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:07:47 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:07:47 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 8
+[03-Dec-2019 04:07:47 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:07:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:07:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:07:47 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:07:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 16
+[03-Dec-2019 04:09:29 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:09:29 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:09:29 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:29 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 17
+[03-Dec-2019 04:09:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 17
+[03-Dec-2019 04:09:42 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:09:42 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 6
+[03-Dec-2019 04:09:42 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 10
+[03-Dec-2019 04:09:42 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 17
+[03-Dec-2019 04:09:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/ajax/bidding_action.php on line 17
+[04-Dec-2019 02:03:35 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 15
+[04-Dec-2019 02:03:35 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 19
+[04-Dec-2019 02:04:44 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 15
+[04-Dec-2019 02:04:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 19
+[04-Dec-2019 02:07:29 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 15
+[04-Dec-2019 02:07:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 19
+[04-Dec-2019 02:07:58 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:07:58 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:11:13 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:11:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:38:52 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:38:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:39:45 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:39:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:40:09 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:40:09 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:40:11 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:40:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:42:11 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:42:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:42:12 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:42:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:42:13 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:42:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:44:41 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:44:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:44:45 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:44:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:46:30 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:46:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:47:19 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:47:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:47:24 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:47:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:47:43 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:47:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:48:04 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:48:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:48:54 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:48:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:48:55 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:48:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:49:57 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:49:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:51:05 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:51:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:51:30 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:51:30 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:54:11 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:54:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:58:12 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:58:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 02:59:40 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 02:59:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 21
+[04-Dec-2019 03:00:54 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:01:53 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:02:26 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:04:21 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:05:53 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:07:25 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:10:27 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:10:37 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[04-Dec-2019 03:12:41 America/New_York] PHP Notice:  Undefined variable: cheker in /home/bdabashon/public_html/bidding/bid/ajax/generate_code.php on line 16
+[09-Dec-2019 00:24:34 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:26:17 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:27:51 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:29:54 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:32:20 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:32:54 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:33:35 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 00:36:14 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 11:37:48 Asia/Dhaka] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 11:39:16 Asia/Dhaka] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[09-Dec-2019 11:40:03 Asia/Dhaka] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/bid_setup.php on line 38
+[10-Dec-2019 06:01:41 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:01:49 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 51
+[10-Dec-2019 06:01:49 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:05:02 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:28:19 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:28:23 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:28:34 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 74
+[10-Dec-2019 06:28:34 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:28:41 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 06:40:11 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[10-Dec-2019 22:58:36 America/New_York] PHP Notice:  Undefined index: unit_Rate in /home/bdabashon/public_html/bidding/bid/ajax/saveBuyShare.php on line 13
+[10-Dec-2019 22:59:28 America/New_York] PHP Notice:  Undefined index: unit_Rate in /home/bdabashon/public_html/bidding/bid/ajax/saveBuyShare.php on line 13
+[13-Dec-2019 00:09:13 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[13-Dec-2019 00:09:13 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 46
+[13-Dec-2019 00:16:42 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[13-Dec-2019 00:16:42 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 46
+[14-Dec-2019 00:39:07 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[14-Dec-2019 00:39:07 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 46
+[14-Dec-2019 01:32:41 America/New_York] PHP Notice:  Undefined variable: share_setup_no in /home/bdabashon/public_html/bidding/bid/ajax/saveBuyShare.php on line 25
+[14-Dec-2019 02:42:56 America/New_York] PHP Notice:  Undefined index: totalBalance in /home/bdabashon/public_html/bidding/bid/ajax/saveBuyShare.php on line 15
+[16-Dec-2019 23:14:06 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/checkbuylottery.php on line 3
+[16-Dec-2019 23:14:09 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/checkbuylottery.php on line 3
+[16-Dec-2019 23:16:10 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/checkbuylottery.php on line 3
+[16-Dec-2019 23:18:30 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/checkbuylottery.php on line 3
+[16-Dec-2019 23:24:45 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/checkbuylottery.php on line 3
+[21-Dec-2019 06:05:44 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 17
+[21-Dec-2019 06:05:44 America/New_York] PHP Notice:  Undefined index: USER_REGISTRATION_NO in /home/bdabashon/public_html/bidding/bid/ajax/savecurrency.php on line 46

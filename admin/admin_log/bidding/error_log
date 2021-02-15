@@ -1,0 +1,7 @@
+[04-Dec-2019 00:20:03 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/adm_bidding.php on line 1
+[04-Dec-2019 00:20:03 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/adm_bidding.php on line 1
+[04-Dec-2019 00:20:03 America/New_York] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/adm_bidding.php on line 118
+[04-Dec-2019 00:20:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/adm_bidding.php on line 118
+[04-Dec-2019 00:20:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/adm_bidding.php on line 120
+[04-Dec-2019 00:24:59 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/coin.php on line 1
+[04-Dec-2019 00:24:59 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/admin/admin_log/bidding/coin.php on line 1

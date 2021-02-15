@@ -1,0 +1,16 @@
+[12-Dec-2019 00:46:08 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 1
+[12-Dec-2019 00:46:08 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 1
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 52
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 52
+[12-Dec-2019 11:46:08 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 93
+[12-Dec-2019 00:46:20 America/New_York] PHP Warning:  include(config/db_connection.php): failed to open stream: No such file or directory in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 1
+[12-Dec-2019 00:46:20 America/New_York] PHP Warning:  include(): Failed opening 'config/db_connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 1
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 48
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Notice:  Undefined variable: con in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 52
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 52
+[12-Dec-2019 11:46:20 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/bdabashon/public_html/bidding/bid/bidding/bidding.php on line 93
